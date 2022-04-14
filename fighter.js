@@ -8,10 +8,13 @@ class Fighter extends Character {
         return `Je m'appelle ${this.firstName}, et j'appartiens à la famille ${this.familyName}.`;
     }
 
-    takeDamage()
-    takeDamage()
-    
-    console.log(KomenYVaCuila):params"YvaBien\n
+    dealDamage(){
+
+    }
+
+    takeDamage(){
+        
+    }
 }    
 
     const grace = new Fighter(familyName = "Fighter", firstName = "Grace", hp = 2, dmg = 1, mana = 10);
